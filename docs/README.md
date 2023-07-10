@@ -2,10 +2,11 @@
 
 ### LINK 👉 <span style="color:aqua"> ddamddamclub.shop </span>
 <img src="https://github.com/5slob/ddamddamclub/assets/122959190/a68c6df0-d4d9-4197-85ab-7e6c38ffac69.gif" width="100%"/>
-<br><br>
+※MainPage
+<br><br><br>
 
 
-<img src="https://github.com/5slob/ddamddamclub/assets/122959190/87710eb3-7c39-4428-b95c-af7fe4a641ba.png" width="550"/>
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/87710eb3-7c39-4428-b95c-af7fe4a641ba.png" width="550"/><br>
  ※데스크탑(1920x1080px, 1024x1080px), 모바일(Width:414px) 접속 가능 🙌
 <br><br>
 
