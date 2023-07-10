@@ -94,11 +94,8 @@
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="25"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" height="25"/>
 </p>
-
-
-
- 
 <br>
+
 ---
 
 <br><br>
