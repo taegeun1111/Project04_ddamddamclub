@@ -126,8 +126,8 @@
 - 백엔드와 프론트엔드 별로 채용공고를 나눠서 조회할 수 있습니다.
 - 경력별로 공고 나눠서 조회가 가능합니다. 
 - 키워드 검색시 포지션과 경력을 선택후에 중복으로 조회가 가능합니다.
-![company copy](https://github.com/5slob/ddamddamclub/assets/122959190/a1e29373-aab4-452a-9fb7-75d94567f7a2)
 
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/a1e29373-aab4-452a-9fb7-75d94567f7a2.gif" width="450"/>
 <br><br>
 
 ### 📜 개발 이력
