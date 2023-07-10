@@ -60,11 +60,11 @@
 
 ### 🔨 기술 스택
 #### FRONT
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" width="100" height="25" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" width="100" height="25" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" width="120" height="25" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" width="90" height="25" alt="React">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" width="90" height="25" alt="Sass">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="25" alt="HTML5" display="inline-block">
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="25" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="25" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="25" alt="React">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" height="25" alt="Sass">
 
 #### BACK
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" width="80" height="25" alt="Java">
