@@ -2,7 +2,7 @@
 
 ### LINK 👉 <span style="color:aqua"> ddamddamclub.shop </span>
 데스크탑(1920x1080px, 1024x1080px), 모바일(Width:414px) 접속 가능 🙌
-<img src="https://github.com/5slob/ddamddamclub/assets/122959190/87710eb3-7c39-4428-b95c-af7fe4a641ba.png" width="450" />
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/87710eb3-7c39-4428-b95c-af7fe4a641ba.png"/>
 <br><br>
 
 ### 목차
