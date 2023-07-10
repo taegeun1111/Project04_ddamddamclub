@@ -59,14 +59,14 @@
 <br><br>
 
 ### 🔨 기술 스택
-### 🔨 기술 스택
 | 📜 FRONT | 🛠️ BACK | 📀 DB | ✂️ Tool | ⭐️ etc |
 | --- | --- | --- | --- | --- |
 | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="25" alt="HTML5"> | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" height="25" alt="Java"> | <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" height="25" alt="MariaDB"> | <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" alt="Git"> |
 | <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="25" alt="CSS3"> | <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" height="25" alt="Spring"> | | <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25" alt="GitHub"> |
 | <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="25" alt="JavaScript"> | <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" height="25" alt="JSON"> | | | <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="25" alt="Amazon AWS"> |
 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="25" alt="React"> | | | | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" height="25" alt="Postman"> |
-| <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" height="25" alt="Sass"> | | | |
+| <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" height="25" alt="Sass"> | | | | ![JPA](https://ibb.co/s1xW5Q4) |
+
 
  
 <br>
