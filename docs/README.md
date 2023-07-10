@@ -2,7 +2,8 @@
 
 ### LINK 👉 <span style="color:aqua"> ddamddamclub.shop </span>
 데스크탑, 모바일 접속 가능 🙌
-https://github.com/5slob/ddamddamclub/assets/122959190/b8a1b54c-f5f0-4a2e-9f14-dd525bbf8627
+![review](https://github.com/5slob/ddamddamclub/assets/122959190/de8d8a2d-874e-4a5c-acef-9cc64dd771f8)
+
 <br><br>
 
 ### 목차
