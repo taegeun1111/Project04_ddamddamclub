@@ -24,7 +24,7 @@ const ProjectContainer
           const writeDate = new Date(p.projectDate);
           const timeDiff = Math.abs(currentDate - writeDate);
           const daysDiff = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
-          console.log(`new box : ${daysDiff}`)
+          // console.log(`new box : ${daysDiff}`)
 
           return (
               <section

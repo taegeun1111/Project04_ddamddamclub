@@ -69,7 +69,7 @@ const CompanyBack = ({searchKeyword, searchValue, searchCareer}) => {
         const totalCount = result.pageInfo.totalCount;
         const totalPage = Math.ceil(totalCount / 10);
         setFinalPage(totalPage);
-        console.log(`totalPage:`, totalPage)
+        // console.log(`totalPage:`, totalPage)
 
         if (page !== 1 && page === finalPage) {
             setGetFetch(false)

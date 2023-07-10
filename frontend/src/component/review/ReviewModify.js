@@ -192,7 +192,7 @@ const ReviewModify = () => {
       </section>
 
       <div className={'btn-wrapper'}>
-        <Link to={'/qna'} className={'close-btn-a'}>
+        <Link to={'/reviews'} className={'close-btn-a'}>
           <button className={'close-btn'}>취소하기</button>
         </Link>
         <button className={'submit-btn'} onClick={handleSubmit}>수정완료</button>

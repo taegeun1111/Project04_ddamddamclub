@@ -34,11 +34,11 @@ const ProjectsDetail = () => {
                 if (res.status === 200) return res.json()
             })
             .then(data => {
-                console.log(data);
+                // console.log(data);
                 fetchProjectDetail();
             })
             .catch(error => {
-                console.log('Error:', error);
+                // console.log('Error:', error);
             });
     };
 
@@ -57,8 +57,8 @@ const ProjectsDetail = () => {
             })
             .then(data => {
                 setProjectDetail([data.payload]);
-                console.log("프로젝트 디테일 dto")
-                console.log(` 마감 일자 형식 변경 ${data.payload.offerPeriod}`);
+                // console.log("프로젝트 디테일 dto")
+                // console.log(` 마감 일자 형식 변경 ${data.payload.offerPeriod}`);
 
                 // date 형식 변환
                 const offer = data.payload.offerPeriod;
@@ -71,7 +71,7 @@ const ProjectsDetail = () => {
                 // 내 게시글 신청하기 버튼 색상 변경
                 const b_writer = data.payload.boardWriter;
                 const userNickname = getUserNickname();
-                console.log(`내 게시글인가용 ? ${b_writer} = ${userNickname}`);
+                // console.log(`내 게시글인가용 ? ${b_writer} = ${userNickname}`);
 
                 const isOwner = b_writer === userNickname;
                 setApplyButtonColor(isOwner ? 'gray' : '');
@@ -92,7 +92,7 @@ const ProjectsDetail = () => {
             setFileUrl(imgUrl);
             // console.log(`프로젝트 디테일 - 이미지 : ${imgUrl}`);
         } else {
-            console.log(await res.text())
+            // console.log(await res.text())
             setFileUrl(null);
         }
     };
@@ -104,7 +104,7 @@ const ProjectsDetail = () => {
     }, []);
 
     const handleDelete = (id) => {
-        console.log("delete id : " + id);
+        // console.log("delete id : " + id);
         if (window.confirm("삭제 하시겠습니까?")) {
 
             fetch(PROJECT + `/${projectIdx}`, {
@@ -119,8 +119,8 @@ const ProjectsDetail = () => {
                 })
                 .then(res => {
                     setProjectDetail([res.payload]);
-                    console.log(res)
-                    console.log(`response.payload : ${res.payload}`);
+                    // console.log(res)
+                    // console.log(`response.payload : ${res.payload}`);
                     alert(res.payload);
                     navigate('/projects');
                 })
@@ -139,8 +139,8 @@ const ProjectsDetail = () => {
             })
                 .then(async res => {
                     if (res.status === 200) {
-                        console.log('신청 성공');
-                        console.log(res.json());
+                        // console.log('신청 성공');
+                        // console.log(res.json());
                         fetchProjectDetail();
                         alert('신청이 완료되었습니다');
                     } else {
