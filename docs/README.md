@@ -2,7 +2,6 @@
 
 ### LINK 👉 <span style="color:aqua"> ddamddamclub.shop </span>
 데스크탑, 모바일 접속 가능 🙌
-<img src="https://github.com/5slob/ddamddamclub/assets/122959190/de8d8a2d-874e-4a5c-acef-9cc64dd771f8.gif" width="300" />
 
 <br><br>
 
@@ -119,6 +118,7 @@
 - 취업후기의 상세보기를 클릭할 때마다 조회수가 상승합니다.
 - 조회수순, 평점순, 최신순으로 정렬해서 글을 볼 수 있습니다.
 - 검색창으로 키워드 검색이 가능합니다.
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/de8d8a2d-874e-4a5c-acef-9cc64dd771f8.gif" width="400" />
 
 ### 📄 채용공고 확인
 
