@@ -67,11 +67,10 @@
 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="25" alt="React"> | | | | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" height="25" alt="Postman"> |
 | <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" height="25" alt="Sass"> | | | |
 
-[![JPA](https://img.shields.io/badge/JPA-%20-blue?logo=java)](https://en.wikipedia.org/wiki/Java_Persistence_API)
  
 <br>
 ---
-
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/2d6bfe6d-7105-4e19-9a25-97cf64f3c9a4)" height="25"/>
 
 <br><br>
 
