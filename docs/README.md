@@ -59,6 +59,7 @@
 <br><br>
 
 ### 🔨 기술 스택
+### 🔨 기술 스택
 | 📜 FRONT | 🛠️ BACK | 📀 DB | ✂️ Tool | ⭐️ etc |
 | --- | --- | --- | --- | --- |
 | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="25" alt="HTML5"> | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" height="25" alt="Java"> | <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" height="25" alt="MariaDB"> | <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" alt="Git"> |
@@ -70,7 +71,6 @@
  
 <br>
 ---
-<img src="https://github.com/5slob/ddamddamclub/assets/122959190/2d6bfe6d-7105-4e19-9a25-97cf64f3c9a4)" height="25"/>
 
 <br><br>
 
