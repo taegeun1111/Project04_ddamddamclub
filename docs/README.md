@@ -118,15 +118,15 @@
 - 취업후기의 상세보기를 클릭할 때마다 조회수가 상승합니다.
 - 조회수순, 평점순, 최신순으로 정렬해서 글을 볼 수 있습니다.
 - 검색창으로 키워드 검색이 가능합니다.
-<img src="https://github.com/5slob/ddamddamclub/assets/122959190/de8d8a2d-874e-4a5c-acef-9cc64dd771f8.gif" width="400" />
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/de8d8a2d-874e-4a5c-acef-9cc64dd771f8.gif" width="450" />
 
 ### 📄 채용공고 확인
 
 - 24시간을 간격으로 업데이트되는 API 정보로 개발자 채용공고를 볼 수 있습니다.
 - 백엔드와 프론트엔드 별로 채용공고를 나눠서 조회할 수 있습니다.
-- 경력별로 공고 나눠서 조회가 가능합니다.
+- 경력별로 공고 나눠서 조회가 가능합니다. 
 - 키워드 검색시 포지션과 경력을 선택후에 중복으로 조회가 가능합니다.
-
+![company copy](https://github.com/5slob/ddamddamclub/assets/122959190/5388f734-c50b-409c-a097-3e84b0768c27)
 <br><br>
 
 ### 📜 개발 이력
