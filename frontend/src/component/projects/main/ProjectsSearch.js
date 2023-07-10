@@ -16,7 +16,7 @@ const ProjectsSearch = () => {
   const handleInputChange = (e) => {
     const inputText = e.target.value;
     setSearchText(inputText);
-    console.log(inputText);
+    // console.log(inputText);
   };
 
   const handleKeyPress = (event) => {
@@ -35,7 +35,7 @@ const ProjectsSearch = () => {
         .then(data => {
           // console.log(data.projects);
           setSearchList(data.projects);
-          console.log(searchList);
+          // console.log(searchList);
 
           // 검색 결과 페이지로 이동
           navigate(`/projects?page=1&keyword=${searchText}`);

@@ -38,7 +38,7 @@ const ProjectsWrite = () => {
       ...prevFormData,
       [name]: value,
     }));
-    console.log(name + " : " + value);
+    // console.log(name + " : " + value);
   }
 
   const handleSubmit = () => {
@@ -64,14 +64,14 @@ const ProjectsWrite = () => {
       }).then(response => response.json())
           .then(data => {
             // setFormData(data.formData);
-            console.log("write post")
-            console.log(data);
+            // console.log("write post")
+            // console.log(data);
             navigate('/projects')
           })
           .catch(error => {
             console.error(error); // Handle errors
           });
-      console.log(formData); // 예시: 콘솔에 데이터 출력
+      // console.log(formData); // 예시: 콘솔에 데이터 출력
     }
   };
 
@@ -88,7 +88,7 @@ const ProjectsWrite = () => {
     reader.onloadend = () => {
       setImgFile(reader.result);
     }
-    console.log(`imgFile : ${imgFile}`)
+    // console.log(`imgFile : ${imgFile}`)
   };
 
   return (

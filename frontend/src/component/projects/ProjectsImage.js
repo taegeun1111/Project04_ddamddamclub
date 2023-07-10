@@ -30,7 +30,7 @@ const ProjectsImage = ({projectIdx}) => {
         // console.log(`img (${projectIdx}): ${imgUrl}`);
       } else {
         const err = await res.text();
-        console.log('img load error !! ' + err);
+        // console.log('img load error !! ' + err);
 
         // setFileUrl((prevUrls) => {
         //   const updatedUrls = [...prevUrls];

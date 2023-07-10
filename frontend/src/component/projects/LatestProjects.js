@@ -23,7 +23,7 @@ const LatestProjects = forwardRef((
     const [clickCurrentPage, setClickCurrentPage] = useState(1);
 
     const currentPageHandler = (clickPageNum) => {
-        console.log(`page click: ${clickPageNum}`);
+        // console.log(`page click: ${clickPageNum}`);
       setClickCurrentPage(clickPageNum);
     }
 
@@ -51,11 +51,11 @@ const LatestProjects = forwardRef((
         })
         .then(async result => {
           if (!!result) {
-            console.log(`result의 값 : `, result);
+            // console.log(`result의 값 : `, result);
             const projects = result.projects;
-            console.log(`projects : `, projects);
+            // console.log(`projects : `, projects);
             const pageInfo = result.pageInfo;
-            console.log(`pageInfo : `, pageInfo);
+            // console.log(`pageInfo : `, pageInfo);
             setProjects(projects);
             setPageNation(pageInfo);
           }

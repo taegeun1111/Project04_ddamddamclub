@@ -41,17 +41,17 @@ const ProjectsMain = ({keyword}) => {
           if (res.status === 200) return res.json()
         })
         .then(data => {
-          console.log(data);
+          // console.log(data);
           setIsLike(!isLike);
         })
         .catch(error => {
-          console.log('Error:', error);
+          // console.log('Error:', error);
         });
   };
 
 
   const handleShowDetails = (projectIdx) => {
-    console.log('게시판 번호: ', projectIdx);
+    // console.log('게시판 번호: ', projectIdx);
 
         if (isLogin()) {
             navigate(`/projects/detail?projectIdx=${projectIdx}`);
@@ -66,7 +66,7 @@ const ProjectsMain = ({keyword}) => {
     childRef.current.fetchData();
   }, [isLike]);
 
-  console.log(`is login ? ${isLogin()}`);
+  // console.log(`is login ? ${isLogin()}`);
 
     const handleWriteClick = () => {
         if (isLogin()) {

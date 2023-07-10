@@ -33,7 +33,7 @@ const PopularProjects = forwardRef((
 
 
       const currentPageHandler = (clickPageNum) => {
-        console.log(`page click: ${clickPageNum}`);
+        // console.log(`page click: ${clickPageNum}`);
         setClickCurrentPage(clickPageNum);
       }
 
@@ -50,7 +50,7 @@ const PopularProjects = forwardRef((
 
       if (presentationScreen) {
         popPageSize = 9;
-        console.log(`page size : ${popPageSize}`)
+        // console.log(`page size : ${popPageSize}`)
       }
 
       let popPage=carouselIndex;
@@ -78,11 +78,11 @@ const PopularProjects = forwardRef((
             .then(result => {
               if (!!result) {
                 // console.log(`result의 값 : `, result);
-                console.log(`projects : `, result.projects);
-                console.log(`pageInfo : `, result.pageInfo);
+                // console.log(`projects : `, result.projects);
+                // console.log(`pageInfo : `, result.pageInfo);
                 setProjects(result.projects);
                 setPageNation(result.pageInfo);
-                console.log(`carouselIndex : ${carouselIndex}`)
+                // console.log(`carouselIndex : ${carouselIndex}`)
               }
             });
       };
@@ -99,7 +99,7 @@ const PopularProjects = forwardRef((
         // 페이지 처리
         const handlePrevious = () => {
           if (pageNation.currentPage > 1) {
-            console.log(`pageNation.currentPage : ${pageNation.currentPage}`)
+            // console.log(`pageNation.currentPage : ${pageNation.currentPage}`)
             setCarouselIndex(prevIndex => prevIndex - 1);
           }
         };
@@ -110,11 +110,11 @@ const PopularProjects = forwardRef((
         }
 
         const handleNext = () => {
-          console.log('handleNext')
+          // console.log('handleNext')
 
           if (pageNation.currentPage < lastPage) {
             setCarouselIndex(prevIndex => prevIndex + 1);
-            console.log(`pageNation.currentPage : ${pageNation.currentPage}`)
+            // console.log(`pageNation.currentPage : ${pageNation.currentPage}`)
           }
         };
 

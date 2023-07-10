@@ -69,8 +69,8 @@ const MypageBoardList = () => {
     // 오류 없이 값을 잘 받아왔다면
     const result = await res.json();
     const pageInfo = result.pageInfo;
-    console.log(`boardList pageInfo : `, pageInfo);
-    console.log(`result.boardList  : `, result.boardList);
+    // console.log(`boardList pageInfo : `, pageInfo);
+    // console.log(`result.boardList  : `, result.boardList);
     setBoardList(result.boardList);
     setPageNation(result.pageInfo);
   };

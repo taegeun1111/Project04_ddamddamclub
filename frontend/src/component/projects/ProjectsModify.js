@@ -38,10 +38,10 @@ const ProjectsModify = () => {
           return response.json();
         })
         .then(data => {
-          console.log(data.payload);
+          // console.log(data.payload);
           setFormData(data.payload);
 
-          console.log(`img load : ${data.payload.boardImg}`);
+          // console.log(`img load : ${data.payload.boardImg}`);
           setImgFile(data.payload.boardImg);
         })
         .catch(error => {
@@ -49,7 +49,7 @@ const ProjectsModify = () => {
         });
   }, []);
 
-  console.log(`기존 img 데이터 : ${imgFile}`)
+  // console.log(`기존 img 데이터 : ${imgFile}`)
 
   const handleInputChange = (e) => {
     const {name, value} = e.target;
@@ -58,12 +58,12 @@ const ProjectsModify = () => {
       // 입력값이 없으면 기존 정보 사용
       [name]: value || prevFormData[name],
     }));
-    console.log(name + " : " + value);
+    // console.log(name + " : " + value);
   }
 
   const modifySubmitHandler = async () => {
-    console.log(formData);
-    console.log('projectIdx:', projectIdx);
+    // console.log(formData);
+    // console.log('projectIdx:', projectIdx);
 
     const {projectImg, boardTitle, boardContent, projectType, maxFront, maxBack,} = formData;
 
@@ -72,8 +72,8 @@ const ProjectsModify = () => {
         {type: 'application/json'}
     );
     const uploadImg = $fileTag.current.files[0];
-    console.log(`uploadImg : ${uploadImg}`);
-    console.log(`upload img : ${!!uploadImg}`)
+    // console.log(`uploadImg : ${uploadImg}`);
+    // console.log(`upload img : ${!!uploadImg}`)
 
     const projectFormData = new FormData();
     projectFormData.append('project', projectJsonBlob);
@@ -88,9 +88,9 @@ const ProjectsModify = () => {
       }).then(response => response.json())
           .then(data => {
             setFormData(data.formData);
-            console.log(`작성 완료 !!`)
-            console.log(data.formData);
-            console.log(data.payload)
+            // console.log(`작성 완료 !!`)
+            // console.log(data.formData);
+            // console.log(data.payload)
             setImgFile(data.payload.boardImg);
 
             navigate(`/projects/detail?projectIdx=${projectIdx}`)
@@ -98,7 +98,7 @@ const ProjectsModify = () => {
           .catch(error => {
             console.error(error);
           });
-      console.log(formData); // 예시: 콘솔에 데이터 출력
+      // console.log(formData); // 예시: 콘솔에 데이터 출력
     }
   };
 
@@ -111,7 +111,7 @@ const ProjectsModify = () => {
       setImgFile(reader.result);
     };
   };
-  console.log('img file upload : ' + imgFile)
+  // console.log('img file upload : ' + imgFile)
 
   return (
       <>
