@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="25"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring" height="25"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" height="25"/>
-  <img src="https://github.com/5slob/ddamddamclub/assets/122959190/4a8ce877-64a9-4965-9370-39e5f4694cbd" alt="JPA" height="25"/>
+  <img src="https://github.com/5slob/ddamddamclub/assets/122959190/e19475ae-cc51-488d-a944-4ad3f67bcf0e)" alt="JPA" height="25"/>
 </p>
 
 #### 📀 DB
