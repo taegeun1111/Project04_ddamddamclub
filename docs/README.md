@@ -127,7 +127,7 @@
 - 경력별로 공고 나눠서 조회가 가능합니다. 
 - 키워드 검색시 포지션과 경력을 선택후에 중복으로 조회가 가능합니다.
 <img src="https://github.com/5slob/ddamddamclub/assets/122959190/5388f734-c50b-409c-a097-3e84b0768c27.gif" width="450" />
-![company copy](https://github.com/5slob/ddamddamclub/assets/122959190/5388f734-c50b-409c-a097-3e84b0768c27)
+
 <br><br>
 
 ### 📜 개발 이력
