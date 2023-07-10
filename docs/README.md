@@ -59,6 +59,7 @@
 <br><br>
 
 ### 🔨 기술 스택
+---
 #### 📜 FRONT
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="25"/>
@@ -96,7 +97,7 @@
 </p>
 <br>
 
----
+
 
 <br><br>
 
@@ -135,7 +136,7 @@
 - 회원은 게시글을 클릭하면 상세보기 확인할 수 있으며, 모집글에 신청을 할 수 있습니다
     - 본인의 게시글에는 신청을 할 수 없습니다
 - 회원은 [ 남은 자리, 참가 인원, 마감일자 , 인기순] 의 조건을 통해 빠르게 시작할 수 있는 프로젝트를 매칭 받을 수 있습니다
-
+<img src="https://github.com/5slob/ddamddamclub/assets/122959190/2e151161-c943-4f93-b1fe-634fea1fd1e6).gif" width="450" />
 
 ### 📄 Q&A
 - 회원은 질문 게시글 작성이 가능합니다.
